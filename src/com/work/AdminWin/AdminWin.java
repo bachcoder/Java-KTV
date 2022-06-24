@@ -214,7 +214,7 @@ public class AdminWin extends JFrame{
                     }
                     String url = "jdbc:mysql://localhost:3306/information";
                     String username = "root";
-                    String password = "5201314LX";
+                    String password = "";
 //        3.连接成功，数据库对象 Connection
                     Connection con = null;
                     try {
